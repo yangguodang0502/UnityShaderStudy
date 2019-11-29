@@ -28,7 +28,7 @@ Shader "Custom/SimpleShader"
 
             struct v2f {
                 float4 pos : SV_POSITION;
-                fixed3 color : COLOR0;
+                fixed3 color : COLOR;
             };
 
             v2f vert (a2v v)
