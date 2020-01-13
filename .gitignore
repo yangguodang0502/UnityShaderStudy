@@ -9,3 +9,6 @@ UnityShaderStudy.sln
 ProjectSettings/ProjectVersion.txt
 obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
 Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
