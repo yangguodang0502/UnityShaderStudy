@@ -16,3 +16,5 @@ obj/
 ProjectSettings/ProjectVersionPrevious.txt
 Substance.Platform.csproj
 Temp/
+ProjectSettings/UPRSettings.asset
+ProjectSettings/ProjectVersion.txt
